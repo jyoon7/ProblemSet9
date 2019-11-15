@@ -18,13 +18,7 @@ LMSC-261-FA2019
 3. ProblemSet9.3.py
 
 ## Purpose
-PYTHOON
+To practice utilizing basic commands and functions in python
 
 ## Build and Run commands
 run with "python3"
-
-## How to compile
-???
-
-## Problems
-None
